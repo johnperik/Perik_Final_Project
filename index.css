@@ -1,0 +1,62 @@
+
+footer {
+	background-color: darkred;
+	text-align: center;
+	font-size: 15px;
+	margin-bottom: 0;
+	color: white;
+	position: fixed;
+  	bottom: 0;
+  	right: 0;
+  	left: 0;
+  	padding: 5px;
+}
+p {
+	font-family: "EB Garamond", serif;
+	font-size: 20px;
+	margin-right: 40%;
+}
+.header {
+	height: auto;
+	font-weight: bold;
+	color: white;
+	text-align: center;
+	font-family: 'EB Garamond', serif;
+	background-color: darkred;
+	padding: 5px;
+	width: 100%;
+}
+.heading {
+	font-size: 40px;
+}
+.dek {
+	font-style: italic;
+	font-size: 20px;
+	font-family: 'EB Garamond', serif;
+}
+.author {
+	font-style: italic;
+	font-size: 20px;
+	font-family: 'EB Garamond', serif;
+}
+.subhead {
+	color: dodgerblue;
+	font-family: 'EB Garamond', sans-serif;
+	font-weight: bold;
+	font-size: 25px;
+}
+figure {
+	width: 500px;
+	float: right;
+	margin-right: 5%;
+	margin-left: 5%;
+	padding-bottom: 10px;
+}
+
+img {
+	width: 500px;
+}
+
+.roger {
+		width: 400px;
+	}
